@@ -1,0 +1,3 @@
+Delta PLC Exercises 1 - Wiki page - Code and Compile:
+
+https://wiki.codeandcompile.com/factory-automation/plc/delta-electronics/plc-exercises-1

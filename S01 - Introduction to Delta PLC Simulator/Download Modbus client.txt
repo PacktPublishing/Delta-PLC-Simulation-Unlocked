@@ -1,0 +1,1 @@
+Download Modbus client i.e Modbus Poll that I am using in the course. Feel free to use it for educational purposes only.
